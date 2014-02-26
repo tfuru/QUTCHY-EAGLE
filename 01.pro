@@ -2,23 +2,23 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Volumes/Elements/eagle/projects/qutchy01/01.brd
 
-Start at      : 20:06:20 (2014/02/26)
-End at        : 20:06:25 (2014/02/26)
-Elapsed time  : 00:00:05
+Start at      : 02:15:57 (2014/02/27)
+End at        : 02:16:00 (2014/02/27)
+Elapsed time  : 00:00:03
 
-Signals       :     8   RoutingGrid: 5 mil  Layers: 1
-Connections   :    25   predefined:  0 ( 0 Vias )
+Signals       :     6   RoutingGrid: 5 mil  Layers: 1
+Connections   :    27   predefined:  9 ( 0 Vias )
 
 Router memory :   506256
 
 Passname          :     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Time per pass     :  00:00:02  00:00:01  00:00:01  00:00:00  00:00:01
-Number of Ripups  :         4         0         0         0         0
-max. Level        :         1         0         0         0         0
-max. Total        :         8         0         0         0         0
+Time per pass     :  00:00:00  00:00:01  00:00:01  00:00:00  00:00:01
+Number of Ripups  :         0         0         0         0         0
+max. Level        :         0         0         0         0         0
+max. Total        :         0         0         0         0         0
 
-Routed            :        25        25        25        25        25
+Routed            :        18        18        18        18        18
 Vias              :         0         0         0         0         0
 Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
